@@ -1,4 +1,3 @@
-Here's the text formatted in Markdown for `README.md`:
 # Exploding Topics API Analysis
 
 ## Project Overview
